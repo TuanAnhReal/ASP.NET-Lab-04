@@ -54,6 +54,9 @@
                         </div>
                     </div>
                 </ItemTemplate>
+                <FooterTemplate>
+                    <asp:Label ID="Label1" Visible="<%# rptHoa.Items.Count ==0 %>" runat="server" Text="Không có dữ liệu" CssClass="text-bg-danger"></asp:Label>
+                </FooterTemplate>
             </asp:Repeater>
         </div>
     </div>
