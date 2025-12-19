@@ -1,5 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
+using System.Data;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Web;
 using System.Web.UI;
@@ -9,9 +12,14 @@ namespace Lab_04
 {
     public partial class XemHoa : System.Web.UI.Page
     {
+        string strConn = ConfigurationManager.ConnectionStrings["HoaTuoiDB"].ConnectionString;
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            
         }
+
+       
+
+
     }
 }

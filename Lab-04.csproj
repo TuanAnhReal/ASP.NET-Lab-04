@@ -92,6 +92,22 @@
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="ThemHoa.aspx" />
     <Content Include="TraCuu.aspx" />
+    <Content Include="Uploads\Hinh_San_Pham\1.png" />
+    <Content Include="Uploads\Hinh_San_Pham\2.png" />
+    <Content Include="Uploads\Hinh_San_Pham\3.png" />
+    <Content Include="Uploads\Hinh_San_Pham\4.png" />
+    <Content Include="Uploads\Hinh_San_Pham\5.png" />
+    <Content Include="Uploads\Hinh_San_Pham\6.png" />
+    <Content Include="Uploads\Hinh_San_Pham\7.png" />
+    <Content Include="Uploads\Hinh_San_Pham\binh001.png" />
+    <Content Include="Uploads\Hinh_San_Pham\consultant.jpg" />
+    <Content Include="Uploads\Hinh_San_Pham\hc001.png" />
+    <Content Include="Uploads\Hinh_San_Pham\hoagio001.png" />
+    <Content Include="Uploads\Hinh_San_Pham\hoagio002.png" />
+    <Content Include="Uploads\Hinh_San_Pham\hoagio003.png" />
+    <Content Include="Uploads\Hinh_San_Pham\hoagio004.png" />
+    <Content Include="Uploads\Hinh_San_Pham\hoagio005.png" />
+    <Content Include="Uploads\Hinh_San_Pham\vp001.png" />
     <Content Include="Web.config" />
     <Content Include="XemHoa.aspx" />
   </ItemGroup>
@@ -154,6 +170,7 @@
     <Content Include="Scripts\bootstrap.esm.js.map" />
     <Content Include="Scripts\bootstrap.bundle.min.js.map" />
     <Content Include="Scripts\bootstrap.bundle.js.map" />
+    <Content Include="Uploads\Thumbs.db" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
