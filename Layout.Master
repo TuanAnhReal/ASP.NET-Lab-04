@@ -50,7 +50,7 @@
 
         <footer class="bg-dark text-white text-center py-3 mt-5">
             <div class="container">
-                <p class="mb-0">&copy; <%: DateTime.Now.Year %> - Thiết kế bởi Sinh viên - LAB 05</p>
+                <p class="mb-0">&copy; <%: DateTime.Now.Year %> - LAB 05</p>
             </div>
         </footer>
     </form>
